@@ -1,206 +1,205 @@
 #EXTM3U
-# @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1AAC.aac
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2AAC.aac
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
-#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
-https://flucast09-h-cloud.flumotion.com/cope/net1.aac
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
-https://flucast31-h-cloud.flumotion.com/cope/net2.aac
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
-https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="COPE",COPE
-https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
-#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Onda Cero",Onda Cero
-https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
-#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Onda Cero",Onda Cero
-https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Nacional",Radio Nacional
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="esRadio",esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
-#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="esRadio",esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
-#EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Marca",Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Marca",Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
-#EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="Radio_Populares" tvg-name="Radio 5 RNE",Radio 5 RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="RAC1",RAC1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-#EXTINF:-1 radio="true" tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="RAC1",RAC1
-https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
-#EXTINF:-1 radio="true" tvg-id="CATRadio.Radio" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Catalunya Ràdio",Catalunya Ràdio
-https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Onda Madrid",Onda Madrid
-https://tvradio-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Onda Madrid",Onda Madrid
-https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="CanalSur.Radio" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Canal Sur Radio",Canal Sur Radio
-https://rtva-live-radio.flumotion.com/rtva/csr.mp3
-#EXTINF:-1 radio="true" tvg-id="RadioEuskadi.Radio" tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Euskadi",Radio Euskadi
-https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="RadioGalega.Radio" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Galega",Radio Galega
-https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="RadioMaria.Radio" tvg-logo="https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio María",Radio María
-https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3
-#EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40",LOS40
+#EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40",LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
-#EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40",LOS40
+#EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40",LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
-#EXTINF:-1 radio="true" tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Classic",LOS40 Classic
+#EXTINF:-1 radio="true" tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Classic",LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Classic",LOS40 Classic
+#EXTINF:-1 radio="true" tvg-id="Los40Classic.Radio" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Classic",LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-#EXTINF:-1 radio="true" tvg-id="Los40Urban.Radio" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Urban",LOS40 Urban
+#EXTINF:-1 radio="true" tvg-id="Los40Urban.Radio" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Urban",LOS40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Los40Urban.Radio" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Urban",LOS40 Urban
+#EXTINF:-1 radio="true" tvg-id="Los40Urban.Radio" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Urban",LOS40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
-#EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Dance",LOS40 Dance
+#EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Dance",LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="LOS40 Dance",LOS40 Dance
+#EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Dance",LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-#EXTINF:-1 radio="true" tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Kiss FM",Kiss FM
+#EXTINF:-1 radio="true" tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Kiss FM",Kiss FM
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 radio="true" tvg-id="Cadena100.Radio" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Cadena 100",Cadena 100
+#EXTINF:-1 radio="true" tvg-id="Cadena100.Radio" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Cadena 100",Cadena 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
-#EXTINF:-1 radio="true" tvg-id="CadenaDial.Radio" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Cadena Dial",Cadena Dial
+#EXTINF:-1 radio="true" tvg-id="CadenaDial.Radio" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Cadena Dial",Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
-#EXTINF:-1 radio="true" tvg-id="CadenaDial.Radio" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Cadena Dial",Cadena Dial
+#EXTINF:-1 radio="true" tvg-id="CadenaDial.Radio" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Cadena Dial",Cadena Dial
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 radio="true" tvg-id="RockFM.Radio" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Rock FM",Rock FM
+#EXTINF:-1 radio="true" tvg-id="RockFM.Radio" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Rock FM",Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="EuropaFM.Radio" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Europa FM",Europa FM
+#EXTINF:-1 radio="true" tvg-id="EuropaFM.Radio" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Europa FM",Europa FM
 https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radio 3 RNE",Radio 3 RNE
+#EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radio 3 RNE",Radio 3 RNE
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radiolé",Radiolé
+#EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radiolé",Radiolé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radiolé",Radiolé
+#EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radiolé",Radiolé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-#EXTINF:-1 radio="true" tvg-id="LocaFM.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM",Loca FM
+#EXTINF:-1 radio="true" tvg-id="LocaFM.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM",Loca FM
 https://s3.we4stream.com:2020/stream/locafm
-#EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Hit FM",Hit FM
+#EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Hit FM",Hit FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Melodía FM",Melodía FM
+#EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Melodía FM",Melodía FM
 https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="CanalFiesta.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1352526092314271745/32cJFnFN_200x200.png" group-title="Radio_Musicales" tvg-name="Canal Fiesta Radio",Canal Fiesta Radio
+#EXTINF:-1 radio="true" tvg-id="CanalFiesta.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1352526092314271745/32cJFnFN_200x200.png" group-title="1-Radio_Musicales" tvg-name="Canal Fiesta Radio",Canal Fiesta Radio
 https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
-#EXTINF:-1 radio="true" tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="MegaStar FM",MegaStar FM
+#EXTINF:-1 radio="true" tvg-id="MegaStar.Radio" tvg-logo="https://graph.facebook.com/MegaStarFM/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="MegaStar FM",MegaStar FM
 https://megastar-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="Radio_Musicales" tvg-name="Dial Baladas",Dial Baladas
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="1-Radio_Musicales" tvg-name="Dial Baladas",Dial Baladas
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03AAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="Radio_Musicales" tvg-name="Dial Baladas",Dial Baladas
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="1-Radio_Musicales" tvg-name="Dial Baladas",Dial Baladas
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="Radio_Musicales" tvg-name="Dial Latino",Dial Latino
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="1-Radio_Musicales" tvg-name="Dial Latino",Dial Latino
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="Radio_Musicales" tvg-name="Dial Latino",Dial Latino
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="1-Radio_Musicales" tvg-name="Dial Latino",Dial Latino
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
-#EXTINF:-1 radio="true" tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="Radio_Musicales" tvg-name="Flaix FM",Flaix FM
+#EXTINF:-1 radio="true" tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="1-Radio_Musicales" tvg-name="Flaix FM",Flaix FM
 https://stream.flaixfm.cat/icecast
-#EXTINF:-1 radio="true" tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="Radio_Musicales" tvg-name="Flaixbac",Flaixbac
+#EXTINF:-1 radio="true" tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="1-Radio_Musicales" tvg-name="Flaixbac",Flaixbac
 https://stream.flaixbac.cat/icecast
-#EXTINF:-1 radio="true" tvg-id="RAC105.Radio" tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="RAC 105",RAC 105
+#EXTINF:-1 radio="true" tvg-id="RAC105.Radio" tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="RAC 105",RAC 105
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.aac
-#EXTINF:-1 radio="true" tvg-id="RAC105.Radio" tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="RAC 105",RAC 105
+#EXTINF:-1 radio="true" tvg-id="RAC105.Radio" tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="RAC 105",RAC 105
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
-#EXTINF:-1 radio="true" tvg-id="TeleTaxi.Radio" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radio TeleTaxi",Radio TeleTaxi
+#EXTINF:-1 radio="true" tvg-id="TeleTaxi.Radio" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radio TeleTaxi",Radio TeleTaxi
 https://radiott-web.streaming-pro.com:6103/radiott.mp3
-#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Radio Clásica RNE",Radio Clásica RNE
+#EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radio Clásica RNE",Radio Clásica RNE
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="MDTRadio.Radio" tvg-logo="https://graph.facebook.com/mdtradio/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="MDT Radio Remember",MDT Radio Remember
+#EXTINF:-1 radio="true" tvg-id="MDTRadio.Radio" tvg-logo="https://graph.facebook.com/mdtradio/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="MDT Radio Remember",MDT Radio Remember
 https://streams1.mdtradio.com:8443/mdtweb
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg" group-title="Radio_Musicales" tvg-name="MDT Radio Pop Stars",MDT Radio Pop Stars
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio Pop Stars",MDT Radio Pop Stars
 https://streams1.mdtradio.com:8443/PopStarsFm
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg" group-title="Radio_Musicales" tvg-name="MDT Radio 80s",MDT Radio 80s
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 80s",MDT Radio 80s
 https://streams1.mdtradio.com:8443/MDTradio80
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg" group-title="Radio_Musicales" tvg-name="MDT Radio 90s",MDT Radio 90s
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 90s",MDT Radio 90s
 https://streams1.mdtradio.com:8443/MDTradio90
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg" group-title="Radio_Musicales" tvg-name="MDT Radio 2000",MDT Radio 2000
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 2000",MDT Radio 2000
 https://streams1.mdtradio.com:8443/MDTradio2000
-#EXTINF:-1 radio="true" tvg-id="LocaFMUrban.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Urban",Loca FM Urban
+#EXTINF:-1 radio="true" tvg-id="LocaFMUrban.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Urban",Loca FM Urban
 https://s1.we4stream.com:2020/stream/locaurban
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Dance",Loca FM Dance
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Dance",Loca FM Dance
 https://s2.we4stream.com/listen/loca_dance/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Remember",Loca FM Remember
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Remember",Loca FM Remember
 https://s2.we4stream.com/listen/loca_remember/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Hard",Loca FM Hard
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Hard",Loca FM Hard
 https://s2.we4stream.com/listen/loca_hard/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM House",Loca FM House
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM House",Loca FM House
 https://s2.we4stream.com/listen/loca_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Chill Out",Loca FM Chill Out
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Chill Out",Loca FM Chill Out
 https://s2.we4stream.com/listen/loca_chill_out/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
 https://s2.we4stream.com/listen/loca_tech_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
 https://s2.we4stream.com/listen/loca_trance/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Techno",Loca FM Techno
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Techno",Loca FM Techno
 https://s2.we4stream.com/listen/loca_techo/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Big Room",Loca FM Big Room
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Big Room",Loca FM Big Room
 https://s2.we4stream.com/listen/loca_big_room/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Deep House",Loca FM Deep House
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Deep House",Loca FM Deep House
 https://s2.we4stream.com/listen/loca_deep_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Sessions",Loca FM Sessions
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Sessions",Loca FM Sessions
 https://s2.we4stream.com/listen/loca_sessions/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
 https://s2.we4stream.com/listen/loca_ambient/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Loca 80's",Loca FM Loca 80's
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Loca 80's",Loca FM Loca 80's
 https://s2.we4stream.com/listen/loca_80s/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Loca 90's",Loca FM Loca 90's
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Loca 90's",Loca FM Loca 90's
 https://s2.we4stream.com/listen/loca_90s_/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Melodic House",Loca FM Melodic House
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Melodic House",Loca FM Melodic House
 https://s2.we4stream.com/listen/loca_melodic_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Melodic Techno",Loca FM Melodic Techno
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Melodic Techno",Loca FM Melodic Techno
 https://s2.we4stream.com/listen/loca_melodic_techno/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Hard Techno",Loca FM Hard Techno
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Hard Techno",Loca FM Hard Techno
 https://s2.we4stream.com/listen/loca_hard_techno/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Industrial",Loca FM Industrial
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Industrial",Loca FM Industrial
 https://s2.we4stream.com/listen/loca_industrial/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
 https://s2.we4stream.com/listen/loca_drum__bass/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="digitalHits FM",digitalHits FM
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="digitalHits FM",digitalHits FM
 https://dhits.frilab.com:8443/dhits
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Élite Love",Élite Love
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Love",Élite Love
 https://streaming2.elitecomunicacion.es/proxy/elitelove/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Élite Dance",Élite Dance
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Dance",Élite Dance
 https://streaming2.elitecomunicacion.es/proxy/elitedance/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Élite Oldies",Élite Oldies
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Oldies",Élite Oldies
 https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Élite Urban",Élite Urban
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Urban",Élite Urban
 https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/mariskalrock/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="MariskalRock Radio",MariskalRock Radio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/mariskalrock/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="MariskalRock Radio",MariskalRock Radio
 https://media.profesionalhosting.com:8047/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="La Urban Radio",La Urban Radio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="La Urban Radio",La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ValenciaCF/picture?width=200&height=200" group-title="Radio_Deportivas" tvg-name="Valencia CF Radio",Valencia CF Radio
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1AAC.aac
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2AAC.aac
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT1.mp3
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER_ALT2.mp3
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="COPE",COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.aac
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="COPE",COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.aac
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="COPE",COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:-1 radio="true" tvg-id="COPE.Radio" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="COPE",COPE
+https://flucast31-h-cloud.flumotion.com/cope/net2.mp3
+#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Onda Cero",Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
+#EXTINF:-1 radio="true" tvg-id="OndaCero.Radio" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Onda Cero",Onda Cero
+https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio Nacional",Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="esRadio",esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:-1 radio="true" tvg-id="esRadio.Radio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="esRadio",esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio Marca",Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
+#EXTINF:-1 radio="true" tvg-id="Marca.Radio" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio Marca",Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+#EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="2-Radio_Populares" tvg-name="Radio 5 RNE",Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1 radio="true" tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="RAC1",RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1 radio="true" tvg-id="RAC1.Radio" tvg-logo="https://graph.facebook.com/rac1oficial/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="RAC1",RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1 radio="true" tvg-id="CATRadio.Radio" tvg-logo="https://graph.facebook.com/catradio/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Catalunya Ràdio",Catalunya Ràdio
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Onda Madrid",Onda Madrid
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="OndaMadrid.Radio" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Onda Madrid",Onda Madrid
+https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="CanalSur.Radio" tvg-logo="https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Canal Sur Radio",Canal Sur Radio
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:-1 radio="true" tvg-id="RadioEuskadi.Radio" tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio Euskadi",Radio Euskadi
+https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="RadioGalega.Radio" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio Galega",Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-id="RadioMaria.Radio" tvg-logo="https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200" group-title="2-Radio_Populares" tvg-name="Radio María",Radio María
+https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ValenciaCF/picture?width=200&height=200" group-title="3-Radio_Deportivas" tvg-name="Valencia CF Radio",Valencia CF Radio
 https://radio-valencia-direct.flumotion.com/rvfc/shoutcast.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/sevillafc/picture?width=200&height=200" group-title="Radio_Deportivas" tvg-name="Sevilla FC Radio",Sevilla FC Radio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/sevillafc/picture?width=200&height=200" group-title="3-Radio_Deportivas" tvg-name="Sevilla FC Radio",Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 radio="true" tvg-id="RadioBetis.Radio" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" group-title="Radio_Deportivas" tvg-name="Real Betis Radio",Real Betis Radio
+#EXTINF:-1 radio="true" tvg-id="RadioBetis.Radio" tvg-logo="https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200" group-title="3-Radio_Deportivas" tvg-name="Real Betis Radio",Real Betis Radio
 https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/udalmeriasad/picture?width=200&height=200" group-title="Radio_Deportivas" tvg-name="UD Almeria Radio",UD Almeria Radio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/udalmeriasad/picture?width=200&height=200" group-title="3-Radio_Deportivas" tvg-name="UD Almeria Radio",UD Almeria Radio
 https://srv6022.dns-lcinternet.com:8002/livelq
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Osasuna/picture?width=200&height=200" group-title="Radio_Deportivas" tvg-name="Radio Osasuna",Radio Osasuna
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Osasuna/picture?width=200&height=200" group-title="3-Radio_Deportivas" tvg-name="Radio Osasuna",Radio Osasuna
 https://stream.radio.co/s2d5fcbba2/listen
-#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="Radio_Infantiles" tvg-name="Babyradio",Babyradio
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="4-Radio_Infantiles" tvg-name="Babyradio",Babyradio
 https://srv6022.dns-lcinternet.com:8033/stream
-#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="Radio_Infantiles" tvg-name="Babyradio LatinoAmérica",Babyradio LatinoAmérica
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="4-Radio_Infantiles" tvg-name="Babyradio LatinoAmérica",Babyradio LatinoAmérica
 https://srv6022.dns-lcinternet.com:8047/stream
-#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="Radio_Infantiles" tvg-name="Babyradio Nanas",Babyradio Nanas
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="4-Radio_Infantiles" tvg-name="Babyradio Nanas",Babyradio Nanas
 https://srv6022.dns-lcinternet.com:8027/stream
-#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="Radio_Infantiles" tvg-name="Babyradio Cuentos Infantiles",Babyradio Cuentos Infantiles
+#EXTINF:-1 radio="true" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200" group-title="4-Radio_Infantiles" tvg-name="Babyradio Cuentos Infantiles",Babyradio Cuentos Infantiles
 https://srv6022.dns-lcinternet.com:8049/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Radio_Infantiles" tvg-name="Pequeradio",Pequeradio
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="4-Radio_Infantiles" tvg-name="Pequeradio",Pequeradio
 http://stm2.emiteonline.com:8009/pequeradio-valencia
 #EXTINF:-1 radio="true" tvg-id="CanalSurFlamenco.Radio" tvg-logo="https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200" group-title="Radio_Andalucía" tvg-name="Flamenco Radio",Flamenco Radio
 https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3

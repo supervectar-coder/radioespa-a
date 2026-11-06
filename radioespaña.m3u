@@ -1,4 +1,60 @@
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="digitalHits FM",digitalHits FM
+https://dhits.frilab.com:8443/dhits
+#EXTINF:-1 radio="true" tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="0-Radio_Musica Electronica" tvg-name="Flaix FM",Flaix FM
+https://stream.flaixfm.cat/icecast
+#EXTINF:-1 radio="true" tvg-id="MDTRadio.Radio" tvg-logo="https://graph.facebook.com/mdtradio/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="MDT Radio Remember",MDT Radio Remember
+https://mdtradio.emitironline.com/mdtwebMaster
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg" group-title="0-Radio_Musica Electronica" tvg-name="MDT Radio Pop Stars",MDT Radio Pop Stars
+https://mdtradio.emitironline.com/PopStarsFm
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg" group-title="0-Radio_Musica Electronica" tvg-name="MDT Radio 80s",MDT Radio 80s
+https://mdtradio.emitironline.com/MDTradio80
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg" group-title="0-Radio_Musica Electronica" tvg-name="MDT Radio 90s",MDT Radio 90s
+https://mdtradio.emitironline.com/MDTradio90
+#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg" group-title="0-Radio_Musica Electronica" tvg-name="MDT Radio 2000",MDT Radio 2000
+https://mdtradio.emitironline.com/MDTradio2000
+#EXTINF:-1 radio="true" tvg-id="LocaFM.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM",Loca FM
+https://s3.we4stream.com:2020/stream/locafm
+#EXTINF:-1 radio="true" tvg-id="LocaFMUrban.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Urban",Loca FM Urban
+https://s1.we4stream.com:2020/stream/locaurban
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Dance",Loca FM Dance
+https://s2.we4stream.com/listen/loca_dance/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Remember",Loca FM Remember
+https://s2.we4stream.com/listen/loca_remember/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Hard",Loca FM Hard
+https://s2.we4stream.com/listen/loca_hard/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM House",Loca FM House
+https://s2.we4stream.com/listen/loca_house/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Chill Out",Loca FM Chill Out
+https://s2.we4stream.com/listen/loca_chill_out/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Tech House",Loca FM Tech House
+https://s2.we4stream.com/listen/loca_tech_house/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Trance",Loca FM Trance
+https://s2.we4stream.com/listen/loca_trance/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Techno",Loca FM Techno
+https://s2.we4stream.com/listen/loca_techo/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Big Room",Loca FM Big Room
+https://s2.we4stream.com/listen/loca_big_room/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Deep House",Loca FM Deep House
+https://s2.we4stream.com/listen/loca_deep_house/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Sessions",Loca FM Sessions
+https://s2.we4stream.com/listen/loca_sessions/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Ambient",Loca FM Ambient
+https://s2.we4stream.com/listen/loca_ambient/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Loca 80's",Loca FM Loca 80's
+https://s2.we4stream.com/listen/loca_80s/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Loca 90's",Loca FM Loca 90's
+https://s2.we4stream.com/listen/loca_90s_/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Melodic House",Loca FM Melodic House
+https://s2.we4stream.com/listen/loca_melodic_house/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Melodic Techno",Loca FM Melodic Techno
+https://s2.we4stream.com/listen/loca_melodic_techno/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Hard Techno",Loca FM Hard Techno
+https://s2.we4stream.com/listen/loca_hard_techno/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Industrial",Loca FM Industrial
+https://s2.we4stream.com/listen/loca_industrial/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="0-Radio_Musica Electronica" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
+https://s2.we4stream.com/listen/loca_drum__bass/live
 #EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40",LOS40
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
 #EXTINF:-1 radio="true" tvg-id="Los40.Radio" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40",LOS40
@@ -15,6 +71,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Los40Dance.Radio" tvg-logo="https://graph.facebook.com/los40dance/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="LOS40 Dance",LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:-1 radio="true" tvg-id="EuropaFM.Radio" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Europa FM",Europa FM
+https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
 #EXTINF:-1 radio="true" tvg-id="KissFm.Radio" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Kiss FM",Kiss FM
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1 radio="true" tvg-id="Cadena100.Radio" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Cadena 100",Cadena 100
@@ -25,16 +83,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 #EXTINF:-1 radio="true" tvg-id="RockFM.Radio" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Rock FM",Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-id="EuropaFM.Radio" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Europa FM",Europa FM
-https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
 #EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radio 3 RNE",Radio 3 RNE
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
 #EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radiolé",Radiolé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Radiole.Radio" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radiolé",Radiolé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
-#EXTINF:-1 radio="true" tvg-id="LocaFM.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM",Loca FM
-https://s3.we4stream.com:2020/stream/locafm
 #EXTINF:-1 radio="true" tvg-id="HitFM.Radio" tvg-logo="https://graph.facebook.com/hitfm.es/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Hit FM",Hit FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
 #EXTINF:-1 radio="true" tvg-id="MelodiaFM.Radio" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Melodía FM",Melodía FM
@@ -51,8 +105,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="1-Radio_Musicales" tvg-name="Dial Latino",Dial Latino
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
-#EXTINF:-1 radio="true" tvg-id="FlaixFM.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1051761197127745541/whMnn4_K_200x200.jpg" group-title="1-Radio_Musicales" tvg-name="Flaix FM",Flaix FM
-https://stream.flaixfm.cat/icecast
 #EXTINF:-1 radio="true" tvg-id="Flaixbac.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1164926188307001344/PtDeZDOO_200x200.jpg" group-title="1-Radio_Musicales" tvg-name="Flaixbac",Flaixbac
 https://stream.flaixbac.cat/icecast
 #EXTINF:-1 radio="true" tvg-id="RAC105.Radio" tvg-logo="https://graph.facebook.com/rac105/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="RAC 105",RAC 105
@@ -63,58 +115,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
 https://radiott-web.streaming-pro.com:6103/radiott.mp3
 #EXTINF:-1 radio="true" tvg-id="RNEClasica.Radio" tvg-logo="https://graph.facebook.com/radioclasicartve/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Radio Clásica RNE",Radio Clásica RNE
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
-#EXTINF:-1 radio="true" tvg-id="MDTRadio.Radio" tvg-logo="https://graph.facebook.com/mdtradio/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="MDT Radio Remember",MDT Radio Remember
-https://streams1.mdtradio.com:8443/mdtweb
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio Pop Stars",MDT Radio Pop Stars
-https://streams1.mdtradio.com:8443/PopStarsFm
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 80s",MDT Radio 80s
-https://streams1.mdtradio.com:8443/MDTradio80
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 90s",MDT Radio 90s
-https://streams1.mdtradio.com:8443/MDTradio90
-#EXTINF:-1 radio="true" tvg-logo="https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg" group-title="1-Radio_Musicales" tvg-name="MDT Radio 2000",MDT Radio 2000
-https://streams1.mdtradio.com:8443/MDTradio2000
-#EXTINF:-1 radio="true" tvg-id="LocaFMUrban.Radio" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Urban",Loca FM Urban
-https://s1.we4stream.com:2020/stream/locaurban
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Dance",Loca FM Dance
-https://s2.we4stream.com/listen/loca_dance/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Remember",Loca FM Remember
-https://s2.we4stream.com/listen/loca_remember/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Hard",Loca FM Hard
-https://s2.we4stream.com/listen/loca_hard/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM House",Loca FM House
-https://s2.we4stream.com/listen/loca_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Chill Out",Loca FM Chill Out
-https://s2.we4stream.com/listen/loca_chill_out/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
-https://s2.we4stream.com/listen/loca_tech_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
-https://s2.we4stream.com/listen/loca_trance/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Techno",Loca FM Techno
-https://s2.we4stream.com/listen/loca_techo/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Big Room",Loca FM Big Room
-https://s2.we4stream.com/listen/loca_big_room/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Deep House",Loca FM Deep House
-https://s2.we4stream.com/listen/loca_deep_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Sessions",Loca FM Sessions
-https://s2.we4stream.com/listen/loca_sessions/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
-https://s2.we4stream.com/listen/loca_ambient/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Loca 80's",Loca FM Loca 80's
-https://s2.we4stream.com/listen/loca_80s/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Loca 90's",Loca FM Loca 90's
-https://s2.we4stream.com/listen/loca_90s_/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Melodic House",Loca FM Melodic House
-https://s2.we4stream.com/listen/loca_melodic_house/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Melodic Techno",Loca FM Melodic Techno
-https://s2.we4stream.com/listen/loca_melodic_techno/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Hard Techno",Loca FM Hard Techno
-https://s2.we4stream.com/listen/loca_hard_techno/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Industrial",Loca FM Industrial
-https://s2.we4stream.com/listen/loca_industrial/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
-https://s2.we4stream.com/listen/loca_drum__bass/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="digitalHits FM",digitalHits FM
-https://dhits.frilab.com:8443/dhits
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Love",Élite Love
 https://streaming2.elitecomunicacion.es/proxy/elitelove/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="1-Radio_Musicales" tvg-name="Élite Dance",Élite Dance
